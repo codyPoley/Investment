@@ -1,4 +1,4 @@
-# Investment
+# Investment Calculator
 Cody Poley <br>
 CS 210 - Programming Languages - June 2021 <br>
 C Plus Plus <br>
